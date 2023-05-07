@@ -15,5 +15,4 @@ pluginManagement {
 rootProject.name = 'OctoEconomyApi'
 
 include 'fabric'
-//include 'forge'
 
